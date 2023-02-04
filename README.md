@@ -31,6 +31,16 @@ Note that all 5 questions are answered using these queries.
 Using this data, I have created an interesting Tableau dashboard to present to the stakeholder. The workbook can be found here -
 []
 
-Along with that, some Python EDA and visual analysis is performed using the interactive Python notebook. 
+Along with that, some Python EDA and visual analysis is performed using the interactive Python notebook which is added to this repo.
+
+Based on the plots, we can make the following observations:
+
+1. There are several missing values in the data, which need to be handled appropriately.
+2. The total spent, points earned, and quantity purchased seem to have increased over time.
+3. The number of items purchased also seems to have increased over time
+4. Walmart, Dollar Tree Store, Costco, Target and Sam's Club are the most visited brands as per user count.
+5. Based on user spending, Starbucks, Fresh, Kirkland Signature, Kroger and PublicX are the most spent-on brands.
+6. Based on user spending, New York, Florida, South Carolina, Texas and West Virgina are the top 5 states where data has captured user spending.
+7. Most users are also present in the same states.
 
 
