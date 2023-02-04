@@ -28,12 +28,12 @@ Note that all 5 questions are answered using these queries.
 
 ## Data Observations
 
-Using this data, I have created an interesting Tableau dashboard to present to the stakeholder. The dashboard workbook has been exported as a pdf which can be found [here](https://github.com/nehasheth2/Fetch_DataAnalytics/blob/main/Tableau%20Dashboard%20PDFs/Dashboard.pdf)
+Using this data, I have created an interesting Tableau dashboard to present to the stakeholder. The dashboard workbook has been exported as a pdf which can be found [here.](https://github.com/nehasheth2/Fetch_DataAnalytics/blob/main/Tableau%20Dashboard%20PDFs/Dashboard.pdf)
 
-There are also some Map visualizations which can be found [here](https://github.com/nehasheth2/Fetch_DataAnalytics/blob/main/Tableau%20Dashboard%20PDFs/Maps.pdf)
+There are also some Map visualizations which can be found [here.](https://github.com/nehasheth2/Fetch_DataAnalytics/blob/main/Tableau%20Dashboard%20PDFs/Maps.pdf)
 
 
-Along with that, some Python EDA and visual analysis is performed using the interactive Python notebook which is added to this repo.
+Along with that, some Python EDA and visual analysis is performed using the interactive Python notebook which is added to this repo [here.](https://github.com/nehasheth2/Fetch_DataAnalytics/blob/main/EDA.ipynb)
 
 Based on the plots, we can make the following observations:
 
