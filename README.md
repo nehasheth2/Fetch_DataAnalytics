@@ -1,7 +1,7 @@
 # Fetch Rewards Coding Exercise - Data Analytics Internship
 :space_invader: :robot: This github repository contains the data, ER diagram, SQL queries, Tableau workbook and an interactive Python notebook for the Data Analytics Assignment. The final deliverale to the non-technical stakeholder would be the Tableau dashboard, capturing insightful discoveries about the data, as well as the word document that shows all the correlations, trends and nuances of the data captured through the years using the Python program.
 
-## Dataset
+## :open_file_folder: Dataset
 - Brands : consists of name of brand, marketing description, barcode information, unique ID and related brands.
 - Receipt_items : consists of item-specific information including price of each item, brand information, date/time, rewards group  and so on.
 - Receipts : consists of point-of-sale data for various items on a receipt including store information, quantity purchased, price of sale, the date/time of the sale, rewards receipt status and whether the transaction needs to be reviewed by Fetch.
